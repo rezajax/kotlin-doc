@@ -1,7 +1,7 @@
 # سلام دنیا
 در اینجا یک برنامه ساده است که "Hello, world!" را چاپ می کند:
 
-```
+```kotlin
 fun main() {
     println("Hello, world!")
     // Hello, world!
