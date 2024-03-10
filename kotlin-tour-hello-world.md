@@ -7,3 +7,5 @@ fun main() {
     // Hello, world!
 }
 ```
+[Click here to view the code on Kotlin Playground](https://pl.kotl.in/g0cpy3lGI)
+
