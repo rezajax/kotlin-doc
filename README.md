@@ -1,5 +1,5 @@
 # به تور ما در کاتلین خوش آمدید
 
-من فقط [این](https://kotlinlang.org/docs/kotlin-tour-welcome.html) صفحه اصلی کاتلین رو ترجمه کردم.
+من فقط [این صفحه](https://kotlinlang.org/docs/kotlin-tour-welcome.html) رو ترجمه کردم./
 این تور اصول زبان برنامه نویسی Kotlin را پوشش می دهد و می تواند به طور کامل در مرورگر شما تکمیل شود. نیازی به نصب نیست.
 
