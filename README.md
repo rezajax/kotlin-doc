@@ -4,5 +4,12 @@
 > این تور اصول زبان برنامه نویسی Kotlin را پوشش می دهد و در مرورگر شما اجرا میشود یعنی نیازی به نصب هیچ برنامه ای نیست.
 
 
-one 
-two
+```html
+<script src="https://unpkg.com/kotlin-playground@1"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  KotlinPlayground('.code-blocks-selector');
+});
+</script>
+```
